@@ -1,4 +1,4 @@
-name: Beyond Briges
+name: null
 favicon: null
 layout_spectrum: 0.8
 typography_spectrum: 0.5
@@ -15,12 +15,7 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors:
-    - "#f6efca"
-    - "#1e1c1e"
-    - "#529597"
-    - "#8ab9b0"
-    - "#355f66"
+  brandColors: []
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
